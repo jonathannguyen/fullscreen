@@ -1,0 +1,4 @@
+fullscreen
+==========
+
+fullscreen fancybox
